@@ -1,0 +1,39 @@
+political_decisions = {
+	greater_goblin_empire = {
+		Title = "Greater Goblin Empire"
+   		desc = "Claim the rightful homelands of the Goblins, or perish?"
+		potential = {
+			tag = GOB
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			badboy = 15
+			180 = { add_core = GOB }
+			178 = { add_core = GOB }
+			179 = { add_core = GOB }
+			181 = { add_core = GOB }
+			182 = { add_core = GOB }
+			183 = { add_core = GOB }
+			218 = { add_core = GOB }
+			217 = { add_core = GOB }
+			228 = { add_core = GOB }
+			227 = { add_core = GOB }
+			226 = { add_core = GOB }
+			225 = { add_core = GOB }
+			223 = { add_core = GOB }
+			224 = { add_core = GOB }
+			229 = { add_core = GOB }
+			230 = { add_core = GOB }
+			231 = { add_core = GOB }
+			221 = { add_core = GOB }
+			220 = { add_core = GOB }
+			219 = { add_core = GOB }
+			222 = { add_core = GOB }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

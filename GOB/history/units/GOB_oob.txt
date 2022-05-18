@@ -1,0 +1,10 @@
+army = {
+	name = "Armies of the goblins"
+	location = 236
+	regiment = {
+		name= "Goblins"
+		type = irregular
+		home = 236
+	}
+}
+

@@ -1,0 +1,5 @@
+owner = GOB
+controller = GOB
+add_core = GOB
+trade_goods = timber
+life_rating = 35
